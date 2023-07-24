@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048309024006",
+    "project_id": "task-trail",
+    "storage_bucket": "task-trail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048309024006:android:85dfe6be6a7aa3762b8a87",
+        "android_client_info": {
+          "package_name": "vk.kotlin.tasktrail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048309024006-mk5q2v3buo5a34j5v07e2mijnfhka8i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9XIvzUVwpxmQZNx8szHeU6KIVugt1bO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048309024006-mk5q2v3buo5a34j5v07e2mijnfhka8i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
